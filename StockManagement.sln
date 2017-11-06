@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockManagement", "StockManagement\StockManagement.csproj", "{FBB93A2C-C2A8-4838-BF48-D2AF25134C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockManagement.Tests", "StockManagement.Tests\StockManagement.Tests.csproj", "{23C50EB7-F502-4453-A340-DB7D37D428DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB93A2C-C2A8-4838-BF48-D2AF25134C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB93A2C-C2A8-4838-BF48-D2AF25134C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB93A2C-C2A8-4838-BF48-D2AF25134C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB93A2C-C2A8-4838-BF48-D2AF25134C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C50EB7-F502-4453-A340-DB7D37D428DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C50EB7-F502-4453-A340-DB7D37D428DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C50EB7-F502-4453-A340-DB7D37D428DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C50EB7-F502-4453-A340-DB7D37D428DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4198F4E-C904-499A-BC99-CF24765EDB3B}
+	EndGlobalSection
+EndGlobal
